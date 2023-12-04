@@ -11557,6 +11557,11 @@ tar-js@^0.3.0:
   resolved "https://registry.yarnpkg.com/tar-js/-/tar-js-0.3.0.tgz#6949aabfb0ba18bb1562ae51a439fd0f30183a17"
   integrity sha512-9uqP2hJUZNKRkwPDe5nXxXdzo6w+BFBPq9x/tyi5/U/DneuSesO/HMb0y5TeWpfcv49YDJTs7SrrZeeu8ZHWDA==
 
+templater.js@^3.0.1:
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/templater.js/-/templater.js-3.0.1.tgz#c9e99bde9966178de30666b27be9c8ad8a0a3233"
+  integrity sha512-dQfUXWB+jFBxp+9Ohzn+WWqcxs71P2hrbGUzyACpRKrD5YOrMRI/G3DkCdS+6UyL6iOiAb9iCx/d2xg2PFOt3w==
+
 terser-webpack-plugin@^5.3.7, terser-webpack-plugin@^5.3.9:
   version "5.3.9"
   resolved "https://registry.yarnpkg.com/terser-webpack-plugin/-/terser-webpack-plugin-5.3.9.tgz#832536999c51b46d468067f9e37662a3b96adfe1"
